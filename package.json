@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ivanzotov/react-maskedinput/issues"
   },
-  "homepage": "https://github.com/ivanzotov/react-maskedinput#readme"
+  "homepage": "https://github.com/ivanzotov/react-maskedinput#readme",
+  "dependencies": {
+    "inputmask-core": "^2.2.0"
+  }
 }
